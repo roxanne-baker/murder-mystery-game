@@ -1,0 +1,23 @@
+GAME DESIGN -
+
+Genre:
+RPG
+
+Title:
+Death of a Star
+
+Premise: 
+A beloved and famous actor has been murdered, and you want to know who.
+
+Goal:
+Your goal is to correctly identify the killer and beat them in a final showdown.  If you do not correctly identify the killer or if you are defeated in battle at any point, you return to the start screen.
+
+Basic mechanics:
+You travel between different towns, and obtain clues by interacting with the locals and looking around their homes (e.g., checking bookcases).  Wild animals may be encountered when travelling between different towns, and the player gains money and experience from successfully defeating an animal, and the player periodically levels up upon gaining experience.  Money can be used to purchase items that the player can use at the Mart in each town.  In addition, each town has a nurse that can restore the player to full health.
+
+Once the player has sufficiently progressed in the game (undecided, probably by having interacted with at least one person/object in each town), they will have the option to accuse an NPC of being the killer.  Doing so will put them in combat with the accused.
+
+Modes:
+Walk-around - The player can travel between towns, interact with objects/NPCs, and check their inventory
+
+Combat - The player is in combat and attempting to defeat either a wild animal or whomever they believe to be the killer.  The player will have a selection of moves they can use against the animal/accused killer, can use any items they have, or attempt to run away from the battle (except when fighting the accused killer).
