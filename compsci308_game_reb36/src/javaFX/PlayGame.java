@@ -9,7 +9,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.animation.AnimationTimer;
 import java.util.ArrayList;
 
-public class JavaFXExperiment extends Application 
+public class PlayGame extends Application 
 {
     public static void main(String[] args) 
     {
