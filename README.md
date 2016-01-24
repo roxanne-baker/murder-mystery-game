@@ -14,7 +14,7 @@ Referenced http://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-
 for basic ideas and regularly referenced the API for several javaFX classes.
 Story was based on an outline for a Murder Mystery Party found here: http://homepage.ntlworld.com/j.coutts1/Hollywood_info.htm
 
-Main class file: JavaFXExperiment
+Main class file: PlayGame
 
 Data (non Java) files needed: The images that are attached.  "Character Sprites" contains the sprites for all non-player characters, but there are several other images as well that are not in a folder.
 
